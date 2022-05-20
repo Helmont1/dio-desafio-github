@@ -1,0 +1,14 @@
+Link para download do git:
+ - https://git-scm.com/downloads
+
+O git bash é um terminal extendido para otimizar o uso do git.
+
+
+Comandos aprendidos sobre git:
+ - cd [comando utilizado para se movimentar pelos diretórios do computador]
+ - ls [comando utilizado para listar o conteúdo do diretório atual]
+ - git commit [comando que gera um commit com as atualizações feitas]
+ - git add [comando que adiciona algo ao git]
+ - git status [comando que mostra o status do repositório git]
+ - git clone [comando que clona um repositório git, do github por exemplo]
+ -
