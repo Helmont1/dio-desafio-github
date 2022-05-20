@@ -1,0 +1,6 @@
+.NET é gratuito e Open-source
+
+Abordagem multiplataforma:
+ - App Models: .NET Framework; .NET Core; Xamarin
+ - Base Libraries: .NET Standard Library
+

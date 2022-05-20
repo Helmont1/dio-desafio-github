@@ -1,0 +1,47 @@
+.NET é um ecossistema para desenvolvimentos de aplicações:
+ - Gratuito
+ - Plataforma cruzada [funciona em varios SO's e varias arquiteturas]
+
+.NET Standard: 
+ - Especificação das APIs que são comuns à implementacoes .NET
+
+IDE utilizado será o VScode, porém, também é possível utilizar o Visual Studio e o CodeSpaces.
+
+Linguagens de programação:
+ - C#
+ - F#
+ - Visual Basic
+
+Bibliotecas importantes:
+ - SDK
+ - Runtime
+
+NUGET: Gerenciador de pacotes com interface gráfica.
+
+Acesso a dados:
+ - ORM -> Entity Framework Core
+ - LINQ - Consulta integrada à linguagem
+ [Ambos facilitam o acesso aos dados]
+
+Ambientes CI/CD:
+ - GitHub Actions
+ - Azure Devops [Microsoft]
+ - Cake / Fake
+
+.NET gerencia automaticamente a memória.
+
+ASP.NET é utilizado para desenvolver aplicações web:
+ - Processa requisições (C# e F#)
+ - Cria páginas web de forma dinâmica
+ - Contém bibliotecas para web patterns
+ - Há sistema de autenticação
+ - Contém extensões para produtividade
+
+Links úteis:
+ - Repositório no github do .NET:
+   https://github.com/dotnet/core/blob/main/Documentation/core-repos.md
+ - Documentação do .NET:
+   https://docs.microsoft.com/pt-br/dotnet/
+ - Site oficial da .NET Foundation:
+   https://dotnetfoundation.org
+
