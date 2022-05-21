@@ -1,0 +1,64 @@
+Usar .NET quando:
+ - Necessitar de plataforma cruzada 
+ - Há direcionamento de microsserviços
+ - Usar Docker
+ - Desejar alto desempenho e sistemas escalonáveis
+ - Usar diferentes versões do .NET na mesma aplicação
+
+Usar .NET Framework quando:
+ - Não houver necessiade de migração para .NET
+ - Bibliotecas de terceiros ou pacotes NUGET não estão disponíveis para .NET
+ - Necessitar de tecnologias não disponíveis para .NET
+ - O projeto não suportar determinada linguagem
+
+Usar o .NET com o ASP.NET Core, e o .NET Framework com o ASP.NET 4.x
+
+Para desenvolver aplicações Desktop:
+ - Universal Windows Apps
+ - Windows Presentation Foundation
+ - Windows Forms
+ - Xamarin.MAC
+
+Aplicações baseadas em containers:
+ - Azure [plataforma de nuvem]:
+   Contém centenas de serviços para os desenvolvedores
+
+Aprendizagem de máquina com .NET:
+ - ML.NET[Framework de plataforma cruzada e open source]
+   Tipos de predições com ML.NET:
+    - Classificação e categorização de objetos
+    - Predição de valores contínuos
+    - Detecção de anomalias
+    - Recomendações
+    - Análise de sentimento
+
+Desenvolvimento de jogos:
+ - Unity
+ - MonoGame
+ - Godot
+ - Stride
+ - Wave Engine
+ - FlatRedBall
+ - CRYENGINE
+
+IoT:
+ - Contém bibliotecas específicas para integração com hardware
+   como o System.Device.Gpio e o IoT.Device.Bindings
+ - Suportado em muitas versões do Linux e Windows IoT Core
+ - .NET NanoFramework:
+    - Plataforma gratuita e open source
+    - Utiliza C#
+    - É suportado pela .NET Foundation
+    - Utiliza o Visual Studio
+ - Meadow:
+    - Plataforma IoT e full stack
+    - Integrado com Azure
+    - Uso no VSCode ou Visual Studio 
+
+Links úteis:
+ - Microsserviços do .NET:
+   https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/
+ - Azure para desenvolvedores .NET:
+   https://docs.microsoft.com/pt-br/dotnet/azure/
+ - Documentação geral do .NET:
+   https://docs.microsoft.com/pt-br/dotnet/
