@@ -1,0 +1,41 @@
+Ferramentas para desenvolvimento:
+ - Visual Studio -> Executado apenas em Windows; Desenvolvimento de qualquer tipo de aplicação .NET
+ - Visual Studio for Mac -> Executado em Mac; Desenvolvimento de alguns Frameworks .NET
+ - VSCode -> Multiplataforma; Customizável; Open Source; 
+ - OmniSharp -> Suite de desenvolvimento integrada; Fornece uma experiência completa para o .NET
+ - IONIDE -> Extensão para VSCode que dá suporte ao desenvolvimento F#; Plataforma cruzada
+ - JetBrains Rider -> Licença paga; Desenvolvimento multiplataforma com .NET, ASP.NET Core, etc
+ - .NET Core CLI -> Alternativa para desenvolvimento via console
+
+C#:
+ - Linguagem mais popular 
+ - Funciona com qualquer tipo de aplicação, e executa em qualquer plataforma
+ - Open Source
+ - Baseada em C/C++, com influências de JAVA
+ - Orientada a Objetos
+
+F#:
+ - Open Source
+ - Com suporte à Windows, MacOS e Linux 
+ - Mais utilizado para ciência de dados e aprendizagem de máquina
+ - Paradigma funcional, imperativo e orientado a objetos
+
+Visual Basic:
+ - Aperfeiçoamento do Basic
+ - Ainda consta como uma das mais utilizadas no mercado
+ - Deriva mais linguagens, como o VBA e o VBScript
+
+Outras linguagens suportadas:
+ - Javascript
+ - Typescript -> Microsoft
+ - Python
+ - SQL
+ - C++
+
+Links úteis:
+ - F#:
+   https://fsharp.org
+ - C# Documentation:
+   https://dotnet.microsoft.com/en-us/languages/csharp
+ - OmniSharp:
+   http://www.omnisharp.net/#about
