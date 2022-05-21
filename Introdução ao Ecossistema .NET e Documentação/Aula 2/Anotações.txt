@@ -4,3 +4,56 @@ Abordagem multiplataforma:
  - App Models: .NET Framework; .NET Core; Xamarin
  - Base Libraries: .NET Standard Library
 
+.NET Framework:
+ - Ambiente focado no Windows
+ - Common language runtime [Gerenciador de execucao]
+ - .NET Class Library [Biblioteca para reutilizacao de codigo]
+ - O sistema de tipos é definido pelo próprio framework
+ - Grande quantidade de bibliotecas de classes utilitárias
+ - Uso do .NET Standard
+
+O compilador traduz o code de alto nivel para um code intermediario,
+antes de passar para codigo de maquina.
+
+.NET Core e .NET:
+ - Plataforma cruzada [pode ser utilizado no Linux, Windows e Mac OS]
+ - Sistema de bibliotecas modulares, com melhor desempenho
+ - O .NET engloba o necessário para desenvolver aplicacões para todos os tipos de dispositivos
+
+ASP.NET Core:
+ - Voltado para aplicações web, IoT apps e aplicações backend para mobile
+ - Uso do MVC:
+   1- Model -> Representa o estado da aplicação
+   2- View -> Apresenta dados através da interface
+   3- Controller -> Responsável por lidar com a integração do View com a Model, para apresentar respostas ao usuário
+ - Model Binding [Mapea automaticamente dados de requisições HTTP]
+ - Model Validation [Valida automaticamente do lado do cliente e servidor]
+ - Razor Pages e Razor markup [modelo baseado em páginas]
+ - Tag Helpers [Permite que o código do lado do servidor crie elementos HTML em arquivos Razor]
+ - Blazor [Framework para construir aplicações do lado do cliente, que são executados usando WebAssembly, e usa JavaScript]
+ - Integração com frameworks como Angular, React e Bootstrap
+
+Xamarin:
+ - Voltado para aplicações mobile com alto desempenho
+ - Baseado no projeot Mono
+ - Cria interface nativa em todas as plataformas e tem código de lógica compartilhado
+
+Xamarin.Forms:
+ - Framework open source para desenvolvimento de interfaces
+ - Utiliza lógica com C# e XAML
+ - Biblioteca Xaramrin.Essentials
+
+Xamarin.Android:
+ - Compila de C# para linguagem intermediária, que por sua vez é compilado para assembly nativo
+ - Executado no ambiente Mono e ART
+
+Xamarin.IOS:
+ - Compilação total de C# para código assembly nativo, por segurança do IOS
+ - Executado no ambiente Mono e ahead of time
+ - Roda dentro do kernel Unix-like
+
+Links úteis:
+ - .NET Standard:
+   https://dotnet.microsoft.com/en-us/platform/dotnet-standard
+ - ASP.NET Core Blazor:
+   https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0
