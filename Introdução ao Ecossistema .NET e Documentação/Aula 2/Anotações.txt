@@ -41,7 +41,7 @@ Xamarin:
 Xamarin.Forms:
  - Framework open source para desenvolvimento de interfaces
  - Utiliza lógica com C# e XAML
- - Biblioteca Xaramrin.Essentials
+ - Biblioteca Xamarin.Essentials
 
 Xamarin.Android:
  - Compila de C# para linguagem intermediária, que por sua vez é compilado para assembly nativo
