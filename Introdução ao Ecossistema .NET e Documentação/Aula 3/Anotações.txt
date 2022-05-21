@@ -1,0 +1,79 @@
+Um bom código tem que ser:
+ - Confiável
+ - Sustentável
+ - Eficiente
+
+É melhor manter o código mais simples do que mais eficiente
+a não ser que o desempenho seja estritamente necessário
+
+Padronização de código:
+ - Melhora comunicação entre equipe
+ - Facilita a manuntenção de códigos
+
+Clean Code:
+ - Conjunto de boas práticas na escrita de software
+ - Seguir sempres as convenções adotadas pela equipe
+ - Manter o código simples
+ - Devolver o código mais limpo do que o encontrado
+ - Buscar solucionar problemas a partir da raiz
+
+Regras para entendimento de código:
+ - Ser consistente na escrita do código inteiro
+ - Utilizar variáveis que passem a informação necessária
+ - Melhor criar objetos de valor à tipos primitivos
+ - Evitar dependências lógicas
+ - Evitar condicionais negativas
+
+Regras para nomeação:
+ - Escolher nomes descritivos
+ - Fazer distinções para variáveis semelhantes
+ - Utilizar nomes busca e leitura fácil
+ - Utilizar constantes para guardar strings que serão comparadas
+ - Não usar prefixos ou caracteres especiais
+
+Regras para métodos:
+ - Não devem ser grandes e devem possuir apenas um objetivo
+ - Devem possuir nomes descritivos
+ - Evitar a exigência de muitos parâmetros dentro do métodos
+ - Evitar que funções alterem valores de outra classe sem ser a própria classe
+ - Evitar flags desnecessárias
+
+Regras para comentários:
+ - Evitar comentários desnecessários, tornar os códigos autoexplicativos
+ - Não ser redundante
+ - Não deixar código desnecessário comentado
+ - Comentários podem ser usados para explanar regras e avisar alguma consequência mais séria
+ 
+Regras para estruturação de código:
+ - Declarar variáveis próximas de seu uso
+ - Agrupar métodos similares
+ - Declarar funções de cima para baixo
+ - Manter poucas e curtas linhas
+ - Usar espaçamentos e identação corretamente
+
+Notação Húngara:
+ - Não é recomendável
+
+Camel Case:
+ - Escrever palavras compostas com a primeira letra minuscula
+ e a segunda palavra em diante maiúscula
+
+Pascal Case:
+ - Escrever palavras compostas considerando a primeira leitura
+ de cada palavra maiúscula
+
+Não há uma regra obrigatória, porém recomendável:
+ - Classes e métodos -> Pascal Case
+ - Variáveis e parâmetros -> Camel Case
+ - Interfaces -> uso do prefixo "I"
+
+Recomendações da Microsoft:
+ - Pascal Case em classes, interfaces e membros públicos
+ - Camel Case para campos privados e internos com prefixo "_" e
+ campos estáticos privados ou internos, com prefixo "s_"
+
+Links úteis:
+ - C# coding conventions:
+   https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+ - Livro Clean Code:
+   https://www.oreilly.com/library/view/clean-code-a/9780136083238/
