@@ -1,0 +1,19 @@
+CLI: 
+ - Interface de linha de comando
+ - Tem como função de processar os comandos que serão enviados a um programa de computador
+
+Comandos utilizados no cmd:
+ - dotnet --version [mostra a versão do .NET instalada]
+ - dotnet --help [lista os possíveis comandos do CLI]
+ - dotnet --info [retorna mais informações sobre a instalação feira do .NET]
+ - dotnet --new [retorna informações sobre os tipos de projetos que podem ser criados]
+ - dotnet new --list --tag web [retorna informações sobre os projetos referentes a web]
+ - dotnet new --help [retorna os possíveis comandos de criação de projetos no CLI]
+ - dotnet new console -o [cria um template de projeto de console]
+ - dotnet run [executa o projeto]
+ - dotnet build [compila o projeto e verifica se tem algo errado]
+ - dotnet restore [resgata as dependências para que o projeto funcione]
+
+Link útil: 
+ - Visão geral do CLI do .NET:
+   https://docs.microsoft.com/pt-br/dotnet/core/tools/

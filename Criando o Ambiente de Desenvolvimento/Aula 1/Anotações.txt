@@ -1,0 +1,5 @@
+Link para download do .NET:
+ - https://dotnet.microsoft.com/en-us/download
+
+Inicialmente foi baixado e instalado o .NET 6.0, já que a versão 
+usada no curso se encontra sem suporte desde 2020.

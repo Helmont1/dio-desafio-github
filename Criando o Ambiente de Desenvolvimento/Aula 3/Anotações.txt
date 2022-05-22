@@ -1,0 +1,8 @@
+Framework é um conjunto de funções prontas para uso pelo desenvolvedor.
+
+Runtime é o tempo necessário para transformar o código intermediário, em bytecode para linguagem
+de máquina, que é código binário.
+
+Link útil:
+ - Visão geral do Common Language Runtime:
+   https://docs.microsoft.com/pt-br/dotnet/standard/clr
