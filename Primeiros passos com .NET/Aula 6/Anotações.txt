@@ -1,0 +1,19 @@
+Structs:
+ - São estruturas de dados
+ - São de tipo valor, e não de referência, assim como as classes
+ - Não requerem alocação de heap
+
+Interfaces:
+ - Define um contrato, que pode ser implementado por classes ou structs
+ - Ela não implementa, normalmente, apenas cria a assinatura do método
+ - Podem herdar multiplas outras interfaces
+
+Enums:
+ - Fornece significado semântico aos valores discretos
+
+
+Links úteis:
+ - Artigos sobre structs:
+   https://www.eximiaco.tech.pt/category/fundamentos
+ - Inversão de controle:
+   https://www.macoratti.net/11/07/ioc_di1.htm

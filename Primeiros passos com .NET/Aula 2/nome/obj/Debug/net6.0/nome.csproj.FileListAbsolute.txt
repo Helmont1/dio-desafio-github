@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\bin\Debug\net6.0\nome.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\bin\Debug\net6.0\nome.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\bin\Debug\net6.0\nome.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\bin\Debug\net6.0\nome.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\bin\Debug\net6.0\nome.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\refint\nome.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\nome.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 2\nome\obj\Debug\net6.0\ref\nome.dll

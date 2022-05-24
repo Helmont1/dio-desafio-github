@@ -1,0 +1,13 @@
+Classes:
+ - Tipo mais fundamental do C#
+ - Estrutura que combina ações e estado
+ - As classes possuem herança e polimorfismo
+
+Membros:
+ - Estáticos: pertencem a classe
+ - Instância: pertencem ao objeto
+ - Podem ser: public, protected, internal, private
+
+Herança é uma declaração de classe especificando uma classe base, herdando os membros dela
+
+Métodos são membros que implementam uma ação.

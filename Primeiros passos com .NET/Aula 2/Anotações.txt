@@ -1,0 +1,19 @@
+Para funcionar, é necessário instalar o SDK no computador.
+
+O editor de código utilizado será o VSCode.
+
+Extensões utilizadas:
+ - C#
+ - C# Extensions
+
+Criando uma aplicação 'console':
+ - Comando para criar: dotnet new console -n nome
+ - Comando para adentrar no diretório: cd nome/
+ - Comando para compilar a aplicação: dotnet build
+ - Comando para executar a aplicação: dotnet run
+
+Links úteis:
+ - Download .NET:
+   https://dotnet.microsoft.com/en-us/download
+ - Download VSCode:
+   https://code.visualstudio.com

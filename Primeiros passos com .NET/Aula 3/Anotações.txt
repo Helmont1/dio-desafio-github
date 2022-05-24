@@ -1,0 +1,21 @@
+Principais conceitos organizacionais do C#:
+ - Programas
+ - Namespaces
+ - Tipos
+ - Membros
+ - Assemblies
+
+Os programas contém normalmente mais de um arquivo, declaram tipos
+e podem ser organizados em namespaces.
+
+Classes e interfaces são exemplos de tipos.
+
+Quando compilado, o programa se transforma em assemblies
+ 
+
+Comandos do vscode:
+ - Clicar no pontinho vermelho onde indica o número da linha cria um ponto de parada para debug.
+ - F5 inicia o debug
+ - F10 passa a linha
+ - F11 entra no método
+ 

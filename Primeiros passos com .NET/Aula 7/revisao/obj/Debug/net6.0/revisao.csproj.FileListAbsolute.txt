@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\bin\Debug\net6.0\revisao.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\bin\Debug\net6.0\revisao.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\bin\Debug\net6.0\revisao.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\bin\Debug\net6.0\revisao.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\bin\Debug\net6.0\revisao.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\refint\revisao.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\revisao.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Primeiros passos com .NET\Aula 7\revisao\obj\Debug\net6.0\ref\revisao.dll
