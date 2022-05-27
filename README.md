@@ -5,3 +5,4 @@
  - Introdução ao Git e ao GitHub
  - Introdução ao Ecossistema .NET e Documentação
  - Criando o Ambiente de Desenvolvimento
+ - Primeiros passos com .NET
