@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\bin\Debug\net6.0\DemosAula2.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\bin\Debug\net6.0\DemosAula2.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\bin\Debug\net6.0\DemosAula2.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\bin\Debug\net6.0\DemosAula2.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\bin\Debug\net6.0\DemosAula2.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\refint\DemosAula2.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\DemosAula2.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Trabalhando com Tipos de Referência e Valor em C#\Aula 2\obj\Debug\net6.0\ref\DemosAula2.dll

@@ -1,0 +1,21 @@
+Reference type:
+ - Todas as classes base
+ - Todas classes de bibliotecas 
+ - Todas as interfaces
+
+Value type:
+ - Enums
+ - Todos os tipos numéricos built in
+ - Structs
+
+O value type contém uma instância do tipo criado;
+A instância sempre é copiada ao atribuir seu valor a outra variável;
+A cópia só existe dentro do escopo daquela chamada, ou seja, quando a chamada acaba, o valor é perdido;
+O valor inicial é sempre o default.
+
+O reference type contém uma referência para uma instância do tipo criado;
+A referência nunca muda ao atribuir seu valor a outra variável;
+O valor inicial é sempre 'NULL';
+Requer gerenciamento de memória através do Garbage Collector(GC).
+
+Strings, apesar de serem reference type, funcionam de forma diferente, como se fossem um value type.

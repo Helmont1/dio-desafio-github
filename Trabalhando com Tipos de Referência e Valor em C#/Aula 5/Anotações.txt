@@ -1,0 +1,8 @@
+Garbage Colector:
+ - É o suporte para a criação e destruição de objetos na memória Heap
+ - Tem como principais vantagens a segurança, e a facilidade de programar ao desenvolvedor 
+ - Tem como principais desvantagens a perfomance, e a observabilidade
+ - Ele é dividido em 3 gerações:
+   - Gen 1[Objetos de ciclo de vida curto]
+   - Gen 2[Buffer de alternância entre a geração 1 e 3]
+   - Gen 3[Objetos com longo ciclo de vida, em especial os 'static']

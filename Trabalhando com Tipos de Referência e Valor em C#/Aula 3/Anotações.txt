@@ -1,0 +1,8 @@
+Ref struct:
+ - Não pode ser um elemento do tipo array
+ - Não pode ser o tipo em campo em uma classe ou não-ref-struct
+ - Não pode implementar interfaces
+ - Não pode ser convertido para Object e nem para value type
+ - Não pode ser usada em métodos assíncronos
+ - Pode ser usada quando for necessário garantir que a instância não irá acessar a Heap
+ - Pode ser usada quando for usar tipos do C# que são ref struct, como o ref struct Span

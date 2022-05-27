@@ -1,0 +1,8 @@
+Ref keyword:
+ - Indica que o conteúdo de determinada variável será acessada por referência
+ - Pode ser usado na declaração dos parâmetros do método e na chamada do método
+ - Pode ser usado na declaração do retorno do método
+ - Pode ser usado no corpo do método para receber um retorno com ref
+ - Pode ser usado na declaração de uma struct
+
+ 
