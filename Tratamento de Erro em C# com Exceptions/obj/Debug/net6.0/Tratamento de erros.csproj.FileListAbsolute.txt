@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\bin\Debug\net6.0\Tratamento de erros.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\bin\Debug\net6.0\Tratamento de erros.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\bin\Debug\net6.0\Tratamento de erros.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\bin\Debug\net6.0\Tratamento de erros.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\bin\Debug\net6.0\Tratamento de erros.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\refint\Tratamento de erros.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\Tratamento de erros.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Tratamento de Erro em C# com Exceptions\obj\Debug\net6.0\ref\Tratamento de erros.dll
