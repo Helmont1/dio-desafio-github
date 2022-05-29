@@ -1,0 +1,15 @@
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+c:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
