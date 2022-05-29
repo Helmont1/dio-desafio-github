@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Controlando o Fluxo de Execução\\Aula 4\\Aula 4.csproj": {}
+    "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Desafio de codigo\\Desafio de codigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Controlando o Fluxo de Execução\\Aula 4\\Aula 4.csproj": {
+    "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Desafio de codigo\\Desafio de codigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Controlando o Fluxo de Execução\\Aula 4\\Aula 4.csproj",
-        "projectName": "Aula 4",
-        "projectPath": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Controlando o Fluxo de Execução\\Aula 4\\Aula 4.csproj",
+        "projectUniqueName": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Desafio de codigo\\Desafio de codigo.csproj",
+        "projectName": "Desafio de codigo",
+        "projectPath": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Desafio de codigo\\Desafio de codigo.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Controlando o Fluxo de Execução\\Aula 4\\obj\\",
+        "outputPath": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Desafio de codigo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"

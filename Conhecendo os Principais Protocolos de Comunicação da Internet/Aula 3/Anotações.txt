@@ -1,0 +1,20 @@
+WebSocket:
+ - Implementa uma única conexão bidirecional via APIs, para mandar e receber dados pela mesma via
+ - Voltada para aplicações web em tempo real
+ - Handshake[simplificado, apenas 2 vias, que são o SYN e o SYN ACK]
+ - Data Transfer
+ - Para fechar, é enviada uma mensagem de encerramento e é cortada a conexão do cliente com os dados do Servidor
+
+O load balance pode servir para fazer distribuição de carga e multiplexação de conexões.
+
+Links úteis:
+ - Protocolo HTTP:
+   https://datatracker.ietf.org/doc/html/rfc6455
+   https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests#checking_if_a_server_supports_partial_requests
+   https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+   https://developer.mozilla.org/en-US/docs/Glossary/Safe/HTTP
+
+ - WebSockets:
+   https://medium.com/@lancers/websocket-api-sec-websocket-protocol-subprotocol-header-support-277e34164537
+   https://en.wikipedia.org/wiki/WebDAV
+   https://developer.mozilla.org/en-US/docs/Glossary/WebDAV

@@ -1,0 +1,45 @@
+Protocolo HTTP:
+ - Definido pelos RFCs 1945 e 2116
+ - Browser -> implementa o cliente HTTP
+ - Servidor -> host objetos web
+ - Cliente -> Request HTTP
+ - Servidor -> Response HTTP
+ - É uma arquitetura client server
+ - Stateless -> Não guarda estado
+
+Extensible Markup Language:
+ - Tem como objetivo a 'serialization'
+ - Comunicação 
+ - JSON -> lightweight, simples, e baseado no javascript
+ - XML -> auto descritivo, depende de uma linguagem de programação
+ 
+HTTP Request:
+ - Get(90%) e Post
+ - 1a linha que define o destino
+ - O post tem mais parâmetros
+ - Existem vários outros métodos além do get e do post
+ - Os métodos seguros são o get, head e option, pois são apenas de leitura
+
+HTTP Response:
+ - Composto por status line, Header lines e Entity body
+ - O status line pode passar vários códigos, como por exemplo:
+   - 200 -> OK
+   - 301 -> Moved Permanently
+   - 400 -> Bad Request
+   - 404 -> Not Found
+   - 505 -> HTTP Version Not Supported
+ - Pode-se usar o Web Distributed Authoring and Versioning para auxiliar o desenvolvedor
+ - As header lines dão informações sobre a conexão, dados da mensagem e o tipo de conteúdo
+
+Cookies:
+ - São pequenos pedaços de blocos de dados usados para manter dados no dispotitivo
+ do cliente
+ - Existem o de sessão e os persistentes, que chegam a durar anos
+ - Podem ser usados para fins maliciosos, por serem muito invasivos
+
+HTTP 2.0:
+ - Única conexão persistente 
+ - Compressão de header 
+ - Server Push
+ - HTTPS por padrão
+ - Negociação no handshake

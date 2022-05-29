@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\bin\Debug\net6.0\Desafio de codigo.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\bin\Debug\net6.0\Desafio de codigo.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\bin\Debug\net6.0\Desafio de codigo.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\bin\Debug\net6.0\Desafio de codigo.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\bin\Debug\net6.0\Desafio de codigo.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\refint\Desafio de codigo.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\Desafio de codigo.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Desafio de codigo\obj\Debug\net6.0\ref\Desafio de codigo.dll

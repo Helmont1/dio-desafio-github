@@ -1,0 +1,12 @@
+Criptografia por chave:
+ - Assimétrica[Chave privada e chave pública]
+ - Simétrica[Utiliza a mesma chave para descriptografar e criptografar]
+ - Cifra de fluxo[Mapeamento bit a bit]
+ - A quantidade de possibilidade da cifra de fluxo com s^3 é mais que 40000
+ - O certificado digital garante a autenticidade da chave pública
+
+Protocolo SSL:
+ - O SSL permite que o dados sejam confiáveis, e impede de certa forma os usuários maliciosos
+ - Handshake[Estabelece a conexão TCP, verificação de autenticidade, envio da master key]
+ - Key Derivation[Session Encryption Key, Verificação da chave]
+ - Data transfer[Transferência efetiva de dados, Record + Mac]
