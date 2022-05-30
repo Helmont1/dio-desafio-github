@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arquivos e Streams/1.0.0": {
+        "runtime": {
+          "Arquivos e Streams.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arquivos e Streams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

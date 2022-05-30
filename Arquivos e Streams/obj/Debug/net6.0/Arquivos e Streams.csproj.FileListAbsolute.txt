@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\bin\Debug\net6.0\Arquivos e Streams.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\bin\Debug\net6.0\Arquivos e Streams.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\bin\Debug\net6.0\Arquivos e Streams.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\bin\Debug\net6.0\Arquivos e Streams.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\bin\Debug\net6.0\Arquivos e Streams.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\refint\Arquivos e Streams.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\Arquivos e Streams.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\dio-desafio-github\Arquivos e Streams\obj\Debug\net6.0\ref\Arquivos e Streams.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgOtzW6+XMziDpTvokFHY8RLLtxKlPoM/iFS6wEEXHVWTMXIvuUEQN6HPwJoWWEhYOKJxwCGxVYZf5llp4x5gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\defaultuser0\\OneDrive\\Área de Trabalho\\Programs\\DIO\\dio-desafio-github\\Arquivos e Streams\\Arquivos e Streams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\defaultuser0\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

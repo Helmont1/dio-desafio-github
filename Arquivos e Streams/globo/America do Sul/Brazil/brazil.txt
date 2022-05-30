@@ -1,0 +1,3 @@
+Populacao: 234MM de habitantes
+IDH: 0.901
+Dados atualizados em 20/04 de 2018
